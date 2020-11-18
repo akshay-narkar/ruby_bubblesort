@@ -1,4 +1,4 @@
-##Bubble Sort Ruby
+## Bubble Sort Ruby
 
 Implementation of the Bubble Sort algorithm using Ruby.
 
@@ -6,13 +6,13 @@ This is a Microverse project. It is developed as a requirement for Microverse Ru
 
 Bubble_sort is created to sort array containing strings & array containing numbers where each element is compared to the one next to it and they are swapped if the one on the left is larger than the one on the right. This continues until the array is eventually sorted.
 
-##Built With
+## Built With
 
 - Ruby
 - VsCode
 - Repl.it
 
-##Getting Started
+## Getting Started
 
 To get a local copy up and running follow these simple example steps:
 Prerequisites
