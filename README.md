@@ -4,11 +4,13 @@ Implementation of the Bubble Sort algorithm using Ruby.
 
 This is a Microverse project. It is developed as a requirement for Microverse Ruby course.
 
-Bubble_sort is created to sort array containing strings & array containing numbers
+Bubble_sort is created to sort array containing strings & array containing numbers where each element is compared to the one next to it and they are swapped if the one on the left is larger than the one on the right. This continues until the array is eventually sorted.
 
 ##Built With
 
-Ruby
+- Ruby
+- VsCode
+- Repl.it
 
 ##Getting Started
 
@@ -20,7 +22,7 @@ Prerequisites
 
 ## Assignment Link
 
-[Assignment]()
+[Assignment](https://repl.it/@helman101/Bubblesort)
 
 ##Authors:
 
@@ -32,7 +34,7 @@ Prerequisites
 👤 **Author2**
 
 - Github: [@helman101](https://github.com/helman101)
-- Twitter: []
+- Linkedin: [Linkedin](https://www.linkedin.com/in/helman-andres-5187271b1/)
 
 ## 🤝 Contributing
 
